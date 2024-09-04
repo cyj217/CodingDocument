@@ -1,0 +1,9 @@
+本书所使用的数据绝大多数是真实数据. 这些数据都可以在国家统计局网站、中国气象数据网、
+http://new.censusatschool.org.nz/resource/time-series-data-sets-2013/、
+https://www.nrscotland.gov.uk/statistics-and-data、http://qed.econ.queensu.ca/jae/1994-v9.S/、\\
+http://homepage.divms.uiowa.edu/~kchan/TSA.htm、https://fred.stlouisfed.org/、https://stats.bls.gov/\\
+和\https://robjhyndman.com/TSDL/ 等网站下载.
+
+为了便于读者学习,我们在各章的数据资源中,把所用到的数据直接提供给读者.
+
+如果在学习的过程中,发现此书有错误或不适当的地方,请与作者联系. baixd_dlnu@163.com
